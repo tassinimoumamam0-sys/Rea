@@ -1,0 +1,6 @@
+{
+  "name": "Veille IA",
+  "description": "Votre expert personnel en veille technologique spécialisé dans l'Intelligence Artificielle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
